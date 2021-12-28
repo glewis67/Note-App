@@ -12,7 +12,7 @@
 
 ## Deployed Link
 
-https://glewis67.github.io/Note-App
+https://note67.herokuapp.com/
 
 ## Table of Contents
 
